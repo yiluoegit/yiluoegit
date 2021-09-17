@@ -1,3 +1,3 @@
 <div align="center">
-    <img height="150" src="https://raw.githubusercontent.com/yiluoegit/yiluoegit/master/github.gif" alt="阿巴阿巴..." />
+    <img height="150" src="https://github.com/yiluoegit/yiluoegit/blob/main/github.gif" alt="阿巴..." />
 </div>
